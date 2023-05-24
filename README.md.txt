@@ -5,11 +5,11 @@ This waste food managing android mobile application allows users to post excess 
 -Application developed by the FASTE team- 
 
 Kotlin	- developing language
-Firebase	- used for authentication and data storage
+Firebase- used for authentication and data storage
 
 FASTE TEAM:
 
-1. Feedback and Journal 	        IT21312830 -	Rajapskasha R. M. D. T
-2. Food recipes 			IT21347030 -	Samarasinghe S. S
-3. Shopping list 			IT21306754 -	Liyanage U.S.P
-4. User Account 			IT21348570 -	Ranaweera R.K.I.P
+1. Feedback and Journal   IT21312830 -	Rajapskasha R. M. D. T
+2. Food recipes 			    IT21347030 -	Samarasinghe S. S
+3. Shopping list 			    IT21306754 -	Liyanage U.S.P
+4. User Account 			    IT21348570 -	Ranaweera R.K.I.P
